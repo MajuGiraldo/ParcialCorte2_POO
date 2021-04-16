@@ -1,1 +1,0 @@
-# ParcialCorte2_POO
