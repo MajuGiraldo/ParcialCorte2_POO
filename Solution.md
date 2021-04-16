@@ -28,3 +28,8 @@ RTA/ La sobre-escritura de métodos u override es una caracteristica que le perm
 Para impedir que se sobre-escriba un método solo basta con hacer ese método final, y ya con esto ninguna clase podra hacer override de ese método. Por ejemplo:
 
 public final String nombreMetodo();
+
+#DISEÑO
+
+![image](https://user-images.githubusercontent.com/78317998/115094881-cb91e380-9ee4-11eb-87cc-6eaf57a3f587.png)
+
